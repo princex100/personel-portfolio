@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import myProfilePic from './assets/prince.jpeg'; // Add this line!
 import blogpreview from './assets/blog.png'; // Add this line!
+import supercarepreview from './assets/supercare.png';
 const SKILLS = [
   { name: "React", level: "90%" },
   { name: "JavaScript", level: "85%" },
@@ -19,11 +20,11 @@ const PROJECTS = [
     img:blogpreview
   },
   {
-    title: "Task AI Manager",
-    desc: "Smart productivity app with AI-driven task prioritization and kanban boards.",
-    tech: "React • Appwrite • OpenAI API",
-    link: "#",
-    img:""
+    title: "SuperCare",
+    desc: "Exceptional care for discerning patients. Modern healthcare web application providing concierge medical team services.",
+    tech: "React • Tailwind CSS",
+    link: "http://localhost:5174",
+    img:supercarepreview
   },
   {
     title: "FinTech Dashboard",
