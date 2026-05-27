@@ -23,7 +23,7 @@ const PROJECTS = [
     title: "SuperCare",
     desc: "Exceptional care for discerning patients. Modern healthcare web application providing concierge medical team services.",
     tech: "React • Tailwind CSS",
-    link: "super-care-multispeciality-hospital.vercel.app",
+    link: "https://super-care-multispeciality-hospital-one.vercel.app/",
     img:supercarepreview
   },
   {
