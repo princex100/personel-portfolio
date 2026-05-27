@@ -154,7 +154,7 @@ export default function App() {
                 <Icons.GitHub />
                 <span><a href="https://github.com/princex100" target='blank'>Github</a></span>
               </a>
-              <a href="#resume" className="group flex items-center justify-center gap-2 px-8 py-3 bg-white/5 text-white border border-white/10 rounded-full backdrop-blur-sm transition-all duration-300 hover:bg-white/10 hover:border-white/30 hover:scale-105 hover:shadow-[0_0_15px_rgba(255,255,255,0.1)]">
+              <a href="/princeresume.pdf" target="_blank" rel="noopener noreferrer" className="group flex items-center justify-center gap-2 px-8 py-3 bg-white/5 text-white border border-white/10 rounded-full backdrop-blur-sm transition-all duration-300 hover:bg-white/10 hover:border-white/30 hover:scale-105 hover:shadow-[0_0_15px_rgba(255,255,255,0.1)]">
                 <Icons.File />
                 <span>Resume</span>
               </a>
